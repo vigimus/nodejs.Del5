@@ -1,0 +1,9 @@
+//Koden:
+// fs.appendFile('./hello.txt', ' This is so cool!', err => {
+//	if (err) {
+//		console.log(err);
+//	}
+//})
+//Gjorde så vi skrev raden längst ner i den här filen
+
+heeeelllooooooooo there This is so cool! This is so cool! This is so cool!
