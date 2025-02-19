@@ -1,5 +1,5 @@
 # nodejs.Del5
-fs.readFile
+fs.readFile()
 fs.readFileSync()
 fs.appendFile()
 fs.unlink()
